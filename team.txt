@@ -1,14 +1,7 @@
-<<<<<<< HEAD
+
 elizabeth
-=======
-<<<<<<< HEAD
 daniel
-=======
-<<<<<<< HEAD
 Tessia
-=======
 Dylan
 
->>>>>>> 6f1fa5ff410f6f90907cce6687d1b35de64fe91a
->>>>>>> 6115be2788e37174245f93849213ea7d405f949d
->>>>>>> 507c87e02d04b40719d6fe59a85d8b8d622e9976
+
